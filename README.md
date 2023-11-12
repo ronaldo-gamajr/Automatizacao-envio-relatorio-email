@@ -30,9 +30,3 @@ As informações que alimentam o código são dados referentes a vendas de vári
 ![email_relatorio](https://github.com/ronaldo-gamajr/Automatizacao-envio-relatorio-email/assets/111927733/c90fb04d-8e1d-4cd0-9f38-d3b74acca548)
 
 - Bibliotecas: **Pandas** e **Pyautogui**
-
-5. enviar o e-mail
-   
-   ```python
-   pyautogui.hotkey("ctrl", "enter")
-   ```
